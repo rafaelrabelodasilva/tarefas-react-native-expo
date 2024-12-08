@@ -1,6 +1,8 @@
 # O Projeto ⭐
 
-Este projeto é uma aplicação de tarefas, onde o usuário pode adicionar novas tarefas e removê-las quando concluídas. Foi utilizado o **Expo** para simplificar o desenvolvimento do aplicativo em **React Native**. O Expo permite rodar o projeto tanto no desktop quanto no smartphone (quando conectados à mesma rede). Além disso, possibilita a emulação de um smartphone para acompanhar o desenvolvimento em tempo real.
+Este projeto é uma aplicação bem simples de tarefas, onde o usuário pode adicionar novas tarefas e removê-las quando concluídas. Foi utilizado o **Expo** para simplificar o desenvolvimento do aplicativo em **React Native**. O Expo permite rodar o projeto tanto no desktop quanto no smartphone (quando conectados à mesma rede). Além disso, possibilita a emulação de um smartphone para acompanhar o desenvolvimento em tempo real.
+
+![Descrição do GIF](public/img/tarefas-app.gif)
 
 ---
 
